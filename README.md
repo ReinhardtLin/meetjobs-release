@@ -5,7 +5,7 @@ Release notes of Meet.jobs application for public
 
 - 全新的名稱及品牌識別，您可以在全新的「關於我們」頁面找到更多資訊。
 
-  The new brand of Meet.jobs, please refer details in “[About Us](https://meet.jobs/about-us "About Meet.jobs")”.
+  The new brand of Meet.jobs, please refer details in “About Us”.
 
 - 每個職缺都標註了更新時間。
 
