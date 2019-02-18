@@ -1,5 +1,23 @@
-# Meet.jobs Release Note
-Release notes of Meet.jobs application for public
+# Meet.jobs Release Note 18th February 2019
+
+## 一般用戶
+
+- 「我的推薦」 有了新的設計，您可以點擊職缺來展開朋友的應徵狀態，並在此進行推薦信的撰寫及錄取的回報。
+
+- 修正了 Internet Explorer 上的顯示問題。
+
+## 徵才企業
+
+- 編輯職缺敘述及企業資訊時，有了全新的文字編輯器。
+
+- 編輯職缺敘述時，取消、儲存草稿、張貼等功能已能正確使用。
+
+- 在應徵管理提供了更平滑的視窗捲動方式。
+
+- 修正了許多大大小小的問題。
+
+
+# Meet.jobs Release Note 28th January 2019
 
 ## For Talents
 
@@ -113,4 +131,4 @@ Release notes of Meet.jobs application for public
     （若 Hiring Team 的同仁需要提升權限，請在人員管理列表將其移除，再重新加入並選擇角色為 Admin ）
   * 新增成員：輸入Email / 職稱 / 角色 來添加新成員，僅能添加已註冊的使用者
 
-*Last Update: 2019/1/25*
+*Last Update: 2019/2/18*
