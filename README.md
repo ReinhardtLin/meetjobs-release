@@ -17,6 +17,8 @@
 - 修正了許多大大小小的問題。
 
 
+
+
 # Meet.jobs Release Note 28th January 2019
 
 ## For Talents
