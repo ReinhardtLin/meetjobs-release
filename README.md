@@ -1,3 +1,19 @@
+# Meet.jobs Release Note 1st April 2019
+
+## 一般用戶
+
+- Meet.jobs 現在提供了更多的職缺，求職者可透過自動轉址的方式，在外部求職網站上應徵。
+
+- 修正了 Facebook 帳號登入的問題。
+
+## 徵才企業
+
+- 企業後台提供了菜單的收合功能。
+
+- 使用者輸入的網址若均無前綴字串，仍可正常連結。
+
+---
+
 # Meet.jobs Release Note 18th March 2019
 
 ## 一般用戶
