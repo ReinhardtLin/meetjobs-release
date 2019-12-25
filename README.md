@@ -1,3 +1,25 @@
+# Meet.jobs Release Note 23rd Dec 2019
+
+## General Users
+
+- Added referral reward filter on jobs search results page
+
+- Added the filter of Referral Reward
+
+- Fixed some errors in wording
+
+- The candidate will receive a notification email when his/her application is viewed by the employer
+
+## For Employers
+
+- Added CV Read Rate card, Application Reply Rate card and new styles for employer dashboard home page
+
+- Added the preview of the thank-you letter for candidates
+
+- Added the flash message of a successful job post
+
+---
+
 # Meet.jobs Release Note 27th May 2019
 
 ## 一般用戶
