@@ -18,6 +18,8 @@
 
 - Added the flash message of a successful job post
 
+- Closed jobs are now collapse together in Applications view.
+
 ---
 
 # Meet.jobs Release Note 27th May 2019
